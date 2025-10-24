@@ -118,7 +118,7 @@ class _HomeScreenState extends State<HomeScreen>
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text(
-                        "Welcome to MessMate 🍴",
+                        "Welcome to MessMate",
                         style: GoogleFonts.poppins(
                           color: Colors.white,
                           fontSize: 32,
@@ -164,7 +164,7 @@ class _HomeScreenState extends State<HomeScreen>
                     ),
                     const SizedBox(height: 20),
                     Text(
-                      "MessMate simplifies mess management by viewing the food items of mess daily and giving feedback.",
+                      "MessMate simplifies mess management by viewing the food items of mess daily and giving.",
                       style: GoogleFonts.poppins(
                         fontSize: 17,
                         color: Colors.black87,
